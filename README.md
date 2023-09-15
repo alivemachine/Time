@@ -38,7 +38,7 @@
 
 ## 📍 Overview
 
-A simple web experience aiming to relax. This knob slows down time. Click to interact with it.
+A simple web experience aiming to relax. This knob slows down time. Click to interact with it. The experience contains easter eggs.
 
 ---
 
