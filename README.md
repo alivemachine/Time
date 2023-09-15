@@ -1,10 +1,11 @@
 <div align="center">
 <h1 align="center">
-<img src="https://github.com/alivemachine/Paiper/blob/04/ogthumb.png" />
-<br>time
+
+<br>Time
 </h1>
-<h3>◦ Effortlessly track and manage time.</h3>
-<h3>◦ Developed with the software and tools listed below.</h3>
+<img src="https://github.com/alivemachine/Time/blob/main/screenshot.png" />
+<h3>Slow your self</h3>
+<h3>Developed with the software and tools listed below.</h3>
 
 <p><img width="100" src="https://alivemachine.io/image/fronthand/openai.png" alt="OpenAI logo" /></p>
 
@@ -29,11 +30,7 @@
 ## 📒 Table of Contents
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [⚙️ Features](#-features)
-- [📂 Project Structure](#project-structure)
 - [🧩 Modules](#modules)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
 ---
@@ -41,38 +38,14 @@
 
 ## 📍 Overview
 
-The project is a web page template that includes HTML, CSS, and JavaScript code to create a visually appealing and interactive webpage. It offers various functionalities such as setting meta tags for search engine optimization and social media sharing, integrating Google Analytics tracking, and creating a dynamic interface with customizable knobs. The project's value proposition lies in providing a foundational layout and styling codebase for developers to create engaging web pages with ease.
+A simple web experience aiming to relax. This knob slows down time. Click to interact with it.
 
 ---
 
-## ⚙️ Features
-
-| Feature                | Description |
-| ---------------------- | ----------- |
-| **⚙️ Architecture**     | The project follows a web page template approach using HTML, CSS, and JavaScript. It utilizes canvas and iframe elements for visual and interactive elements. The codebase also incorporates Google Analytics tracking and jQuery libraries. The architecture appears to be client-focused and aims to create a dynamic interface with knobs that can be manipulated. |
-| **📖 Documentation**   | The level of documentation for the project is limited. While there are comments within some of the code files, a comprehensive README or other forms of documentation explaining the project's overall functionality and structure is missing. Additional documentation would enhance the project's comprehensiveness and make it more accessible for both new and existing contributors. |
-| **🔗 Dependencies**    | The project relies on external dependencies such as jQuery (both minified and unminified versions) and various font files belonging to the Montserrat and Titillium Web font families. |
-| **🧩 Modularity**      | The project is divided into multiple files within different directories, indicating a degree of modularity. However, without further information on the relationship and interdependency between the files, it is challenging to assess the modularity comprehensively. Additional documentation or code organization could aid in understanding the components' interchangeable nature. |
-| **✔️ Testing**          | There is no explicit mention of testing within the codebase, including test files, frameworks, or strategies implemented. The lack of testing information suggests the need for the inclusion of testing practices to ensure code quality, maintainability, and prevent regressions. |
-| **⚡️ Performance**      | As per the provided information, no specific performance optimizations or considerations are evident within the codebase. A more detailed analysis or additional information would be required to assess the system's performance with regards to speed, efficiency, and resource usage. |
-| **🔐 Security**        | There is no explicit information on security measures within the codebase. Evaluating security in this context would require a deeper inspection or additional information on potential security vulnerabilities or protective measures. |
-| **🔀 Version Control** | The codebase is hosted on GitHub, indicative of the use of version control. Each file can be tracked individually to monitor changes and facilitate collaboration. However, without a detailed commit history or other provided information, it is challenging to assess the specific version control strategies or tools employed. GitHub's features like pull requests and branch management could be utilized for enhanced version control workflows. |
-| **🔌 Integrations**    | The project seems to incorporate several integrations, including Google Analytics for tracking, jQuery libraries for extended functionality, and embedded YouTube videos for media content. Additional context would be beneficial for a deeper understanding of these integrations and their purpose within the project. |
-| **📶 Scalability**     | Without specific information on the scale or intended usage of the system, scalability factors are challenging to evaluate. Scalability considerations could include load balancing, caching, or the ability to handle a growing user base. A more detailed analysis or additional context would be necessary to assess the project's scalability. |
-
----
-
-
-## 📂 Project Structure
-
-
-
-
----
 
 ## 🧩 Modules
 
-<details closed><summary>Root</summary>
+<details open><summary>Root</summary>
 
 | File                                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---                                                                                                  | ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -95,72 +68,9 @@ The project is a web page template that includes HTML, CSS, and JavaScript code 
 
 ---
 
-## 🚀 Getting Started
 
-### ✔️ Prerequisites
-
-Before you begin, ensure that you have the following prerequisites installed:
-> - `ℹ️ Requirement 1`
-> - `ℹ️ Requirement 2`
-> - `ℹ️ ...`
-
-### 📦 Installation
-
-1. Clone the time repository:
-```sh
-git clone https://github.com/alivemachine/time
-```
-
-2. Change to the project directory:
-```sh
-cd time
-```
-
-3. Install the dependencies:
-```sh
-npm install
-```
-
-### 🎮 Using time
-
-```sh
-node app.js
-```
-
-### 🧪 Running Tests
-```sh
-npm test
-```
-
----
-
-
----
-
-## 🤝 Contributing
-
-Contributions are always welcome! Please follow these steps:
-1. Fork the project repository. This creates a copy of the project on your account that you can modify without affecting the original project.
-2. Clone the forked repository to your local machine using a Git client like Git or GitHub Desktop.
-3. Create a new branch with a descriptive name (e.g., `new-feature-branch` or `bugfix-issue-123`).
-```sh
-git checkout -b new-feature-branch
-```
-4. Make changes to the project's codebase.
-5. Commit your changes to your local branch with a clear commit message that explains the changes you've made.
-```sh
-git commit -m 'Implemented new feature.'
-```
-6. Push your changes to your forked repository on GitHub using the following command
-```sh
-git push origin new-feature-branch
-```
-7. Create a new pull request to the original project repository. In the pull request, describe the changes you've made and why they're necessary.
-The project maintainers will review your changes and provide feedback or merge them into the main branch.
-
----
 ## 📄 License
 
-This project is licensed under the `ℹ️  INSERT-LICENSE-TYPE` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
+This project is licensed under the MIT License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
