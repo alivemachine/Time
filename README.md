@@ -4,7 +4,7 @@
 <br>Time
 </h1>
 <img src="https://github.com/alivemachine/Time/blob/main/screenshot.png" />
-<h3>Slow your self</h3>
+<h3>Slow down time</h3>
 <h3>Developed with the software and tools listed below.</h3>
 
 <p align="center">
@@ -38,6 +38,8 @@
 
 A simple web experience aiming to relax. This knob slows down time. Click to interact with it. The experience contains easter eggs.
 
+### [ Demo ](https://alivemachine.io/time/)
+
 ---
 
 
@@ -68,3 +70,9 @@ A simple web experience aiming to relax. This knob slows down time. Click to int
 This project is licensed under the MIT License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
+
+
+
+
+
+
